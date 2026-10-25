@@ -12,7 +12,7 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 <br>
 <br>
 
-[繁體中文教學](#-繁體中文教學) • [English Tutorial](#-english-tutorial)
+[繁體中文教學](#繁體中文教學) • [English Tutorial](#english-tutorial)
 <br>
 <br>
 
@@ -26,7 +26,7 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 
 ---
 
-## 🇹🇼 繁體中文教學
+## 繁體中文教學
 
 ### 什麼是 Google Play Points？誰有資格領取？
 **Google Play Points** 是 Play 商店推出的獎勵計畫。玩家透過購買應用程式、遊戲或內購來累積點數，點數可用於兌換遊戲虛寶或抵用金。
@@ -55,7 +55,7 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 
 ---
 
-## 🇬🇧 English Tutorial
+## English Tutorial
 
 ### What is Google Play Points? Who is Eligible?
 **Google Play Points** is a rewards program launched by the Google Play. Players accumulate points by purchasing apps, games or in-app items, which can be used to redeem game items or store credit.
