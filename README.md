@@ -94,7 +94,7 @@ Thank you for supporting this open-source project! If this tool saved you time, 
    <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date&theme=dark" />
      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date" />
-     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date" />
+     <img alt="Github Star" src="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date" />
    </picture>
   </a>
 </div> -->
