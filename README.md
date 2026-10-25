@@ -33,7 +33,7 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 *   **每週獎勵領取資格**：只要你的等級達到 **白銀級（Silver）、黃金級（Gold）、白金級（Platinum）或 鑽石級（Diamond）**，每週五凌晨都會獲得一次免費抽取寶箱（Weekly Perks）的機會。
 *   **痛點**：每週都要手動打開網頁或應用程式點擊寶箱，常常一忙就忘記領取而白白浪費，這個擴充功能就是為了徹底解決這個問題而誕生的！
 
-### ✨ 核心運作方式
+### ✨ 運作方式
 運作方式非常簡單，完全零干擾：
 
 1. 請先在瀏覽器的 Play 商店登入您的帳號。
@@ -41,7 +41,7 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 3. 只有在首次安裝或有新獎勵時，才會開啟分頁領取點數。
 4. 領取完畢後會自動關閉分頁，完全不干擾您的日常使用。
 
-### 🚀 安裝教學 (免上架直接安裝)
+### 🚀 安裝教學
 由於本工具為獨立開源腳本，請依照以下步驟將其安裝到您的 Chrome / Edge 瀏覽器：
 
 1. 點擊頁面右側的 **[Releases](https://github.com/peter890331/Auto-Collect-Play-Points/releases)**，下載最新版本的 `Source code (zip)` 壓縮檔。
@@ -84,7 +84,7 @@ Since this tool is an independent open-source script, please follow the steps be
 
 ---
 
-## 📈 Star History
+## 📈 Github Star
 
 感謝您對開源專案的支持！如果這個工具為您省下了時間，請點擊右上角的 **⭐ Star** 給予鼓勵！<br>
 Thank you for supporting this open-source project! If this tool saved you time, please click the **⭐ Star** in the top right corner to encourage us!
