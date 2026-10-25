@@ -57,7 +57,7 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 
 ## 🇬🇧 English Tutorial
 
-### What is Google Play Points & Who is Eligible?
+### What is Google Play Points? Who is Eligible?
 **Google Play Points** is a rewards program launched by the Google Play. Players accumulate points by purchasing apps, games or in-app items, which can be used to redeem game items or store credit.
 *   **Weekly Perks Eligibility**: As long as your level reaches **Silver, Gold, Platinum or Diamond**, you will get a free chance to draw a reward chest (Weekly Perks) every Friday.
 *   **The Problem**: You have to manually open the webpage or app every week to click the chest, often you forget to claim it and it goes to waste when you are busy, this extension was born to completely solve this problem!
