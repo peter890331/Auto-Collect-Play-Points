@@ -30,7 +30,7 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 
 ### 什麼是 Google Play Points？誰有資格領取？
 **Google Play Points** 是 Play 商店推出的獎勵計畫。玩家透過購買應用程式、遊戲或內購來累積點數，點數可用於兌換遊戲虛寶或抵用金。
-*   **每週獎勵領取資格**：只要你的等級達到 **白銀級（Silver）、黃金級（Gold）、白金級（Platinum）或 鑽石級（Diamond）**，每週五凌晨都會獲得一次免費抽取寶箱（Weekly Perks）的機會。
+*   **每週獎勵領取資格**：只要你的等級達到 **白銀級（Silver）、黃金級（Gold）、白金級（Platinum）或 鑽石級（Diamond）**（或自去年起曾達到上述等級），每週五凌晨都會獲得一次免費抽取寶箱（Weekly Perks）的機會。
 *   **痛點**：每週都要手動打開網頁或應用程式點擊寶箱，常常一忙就忘記領取而白白浪費，這個擴充功能就是為了徹底解決這個問題而誕生的！
 
 ### ✨ 運作方式
@@ -59,7 +59,7 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 
 ### What is Google Play Points? Who is Eligible?
 **Google Play Points** is a rewards program launched by the Google Play. Players accumulate points by purchasing apps, games or in-app items, which can be used to redeem game items or store credit.
-*   **Weekly Perks Eligibility**: As long as your level reaches **Silver, Gold, Platinum or Diamond**, you will get a free chance to draw a reward chest (Weekly Perks) every Friday.
+*   **Weekly Perks Eligibility**: As long as your level reaches **Silver, Gold, Platinum or Diamond** (or if you have reached these tiers since last year), you will get a free chance to draw a reward chest (Weekly Perks) every Friday.
 *   **The Problem**: You have to manually open the webpage or app every week to click the chest, often you forget to claim it and it goes to waste when you are busy, this extension was born to completely solve this problem!
 
 ### ✨ How It Works
