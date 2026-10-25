@@ -89,7 +89,7 @@ Since this tool is an independent open-source script, please follow the steps be
 感謝您對開源專案的支持！如果這個工具為您省下了時間，請點擊右上角的 **⭐ Star** 給予鼓勵！<br>
 Thank you for supporting this open-source project! If this tool saved you time, please click the **⭐ Star** in the top right corner to encourage us!
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://star-history.com/#peter890331/Auto-Collect-Play-Points&Date">
    <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date&theme=dark" />
@@ -97,4 +97,4 @@ Thank you for supporting this open-source project! If this tool saved you time, 
      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date" />
    </picture>
   </a>
-</div>
+</div> -->
