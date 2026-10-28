@@ -10,7 +10,9 @@ Auto Collect Play Points during computer idle time! 🙂‍↕️
 A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.<br>
 極輕量、極低資源消耗的 自動領取 Play Points 擴充功能。
 <br>
-<br>
+
+Automatically collect the weekly Play Points chests for you when you step away from your seat! <br>
+在您短暫離開座位時，自動為您領取每週的 Play Points 寶箱！ 
 
 [繁體中文教學](#繁體中文教學) • [English Tutorial](#english-tutorial)
 <br>
@@ -34,6 +36,8 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 *   **痛點**：每週都要手動打開網頁或應用程式點擊寶箱，常常一忙就忘記領取而白白浪費，這個擴充功能就是為了徹底解決這個問題而誕生的！
 
 ### ✨ 運作方式
+如果您平時有在使用電腦（無論是居家休閒或在公司辦公），只要安裝這個擴充功能，它就會在您短暫離開座位時，自動為您領取每週的 Play Points 寶箱。
+
 運作方式非常簡單，完全零干擾：
 
 1. 請先在瀏覽器的 Play 商店登入您的帳號。
@@ -58,14 +62,16 @@ A lightweight, ultra-low resource Chrome Extension for Auto Collect Play Points.
 ## English Tutorial
 
 ### What is Google Play Points? Who is Eligible?
-**Google Play Points** is a rewards program launched by the Google Play. Players accumulate points by purchasing apps, games or in-app items, which can be used to redeem game items or store credit.
+**Google Play Points** is a rewards program launched by Google Play. Players accumulate points by purchasing apps, games or in-app items, which can be used to redeem game items or store credit.
 *   **Weekly Perks Eligibility**: As long as your level reaches **Silver, Gold, Platinum or Diamond** (or if you have reached these tiers since last year), you will get a free chance to draw a reward chest (Weekly Perks) every Friday.
 *   **The Problem**: You have to manually open the webpage or app every week to click the chest, often you forget to claim it and it goes to waste when you are busy, this extension was born to completely solve this problem!
 
 ### ✨ How It Works
+If you regularly use a computer (whether relaxing at home or working in the office), install this extension, it will automatically collect the weekly Play Points chests for you when you step away from your seat.
+
 The process is very simple, completely non-intrusive:
 
-1. First, log in to your account on the Google Play in your browser.
+1. First, log in to your account on Google Play in your browser.
 2. The extension runs automatically after 10 minutes of idle time.
 3. It only opens a tab to collect points on first install or when new rewards are ready.
 4. The tab closes automatically when finished, so it will not interrupt your work.
