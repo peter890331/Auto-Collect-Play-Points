@@ -95,12 +95,10 @@ Since this tool is an independent open-source script, please follow the steps be
 感謝您對開源專案的支持！如果這個工具為您省下了時間，請點擊右上角的 **⭐ Star** 給予鼓勵！<br>
 Thank you for supporting this open-source project! If this tool saved you time, please click the **⭐ Star** in the top right corner to encourage us!
 
-<!-- <div align="center">
-  <a href="https://star-history.com/#peter890331/Auto-Collect-Play-Points&Date">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date&theme=dark" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date" />
-     <img alt="Github Star" src="https://api.star-history.com/svg?repos=peter890331/Auto-Collect-Play-Points&type=Date" />
-   </picture>
-  </a>
-</div> -->
+<!-- <a href="https://www.star-history.com/?repos=peter890331%2FAuto-Collect-Play-Points&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=peter890331/Auto-Collect-Play-Points&type=date&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=peter890331/Auto-Collect-Play-Points&type=date&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=peter890331/Auto-Collect-Play-Points&type=date&logscale&legend=top-left" />
+ </picture>
+</a> -->
