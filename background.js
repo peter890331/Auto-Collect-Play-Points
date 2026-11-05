@@ -1,5 +1,3 @@
-let isProcessing = false;
-
 chrome.runtime.onInstalled.addListener((details) => {
   if (details.reason === 'install') {
     chrome.storage.local.set({ claimCount: 0, nextClaimDate: 0 });
@@ -14,17 +12,20 @@ chrome.runtime.onStartup.addListener(() => {
 chrome.alarms.onAlarm.addListener((alarm) => {
   if (alarm.name === 'checkIdleAlarm') {
     chrome.idle.queryState(600, (state) => {
-      if ((state === 'idle' || state === 'locked') && !isProcessing) {
-        chrome.storage.local.get(['nextClaimDate'], (result) => {
-          const nextDate = result.nextClaimDate || 0;
+      if (state === 'idle' || state === 'locked') {
+        chrome.storage.local.get(['nextClaimDate', 'autoRunFlag'], (result) => {
           const now = Date.now();
           
+          if (result.autoRunFlag && (now - result.autoRunFlag < 300000)) {
+            return; 
+          }
+
+          const nextDate = result.nextClaimDate || 0;
+          
           if (now >= nextDate) {
-            isProcessing = true;
             chrome.storage.local.set({ autoRunFlag: now }, () => {
               chrome.tabs.create({ url: "https://play.google.com/store/points/perks", active: true });
             });
-            setTimeout(() => { isProcessing = false; }, 300000);
           }
         });
       }

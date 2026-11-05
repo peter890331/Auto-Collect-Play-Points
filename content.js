@@ -11,8 +11,10 @@ chrome.storage.local.get(['nextClaimDate', 'autoRunFlag'], (initResult) => {
     return;
   }
 
-  const startTime = Date.now();
+const startTime = Date.now();
   let hasClickedClaim = false;
+  let lastClaimClickTime = 0; 
+  let claimRetryCount = 0;
   let hasClickedChest = false;
   let chestWaitCycles = 0;
 
@@ -39,7 +41,7 @@ chrome.storage.local.get(['nextClaimDate', 'autoRunFlag'], (initResult) => {
     }
 
     if (rewardCard) {
-      if (!hasClickedClaim) {
+      if (!hasClickedClaim || (Date.now() - lastClaimClickTime > 2000 && claimRetryCount < 3)) {
         const btn = rewardCard.querySelector('button');
         const span = rewardCard.querySelector('span[jsname="V67aGc"]');
         if (btn) {
@@ -47,6 +49,8 @@ chrome.storage.local.get(['nextClaimDate', 'autoRunFlag'], (initResult) => {
           if (span) span.click();
           btn.click();
           hasClickedClaim = true;
+          lastClaimClickTime = Date.now();
+          claimRetryCount++;
         }
       }
       return;
