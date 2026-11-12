@@ -1,3 +1,5 @@
+// https://github.com/peter890331/Auto-Collect-Play-Points
+
 const isChinese = navigator.language.startsWith('zh');
 const i18n = {
   title: isChinese ? '自動領取 Play Points' : 'Auto Collect Play Points',

@@ -1,3 +1,5 @@
+// https://github.com/peter890331/Auto-Collect-Play-Points
+
 chrome.runtime.onInstalled.addListener((details) => {
   if (details.reason === 'install') {
     chrome.storage.local.set({ claimCount: 0, nextClaimDate: 0 });

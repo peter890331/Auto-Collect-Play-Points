@@ -1,3 +1,5 @@
+// https://github.com/peter890331/Auto-Collect-Play-Points
+
 chrome.storage.local.get(['nextClaimDate', 'autoRunFlag'], (initResult) => {
   
   if (initResult.nextClaimDate && Date.now() < initResult.nextClaimDate) {
