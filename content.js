@@ -28,14 +28,17 @@ const startTime = Date.now();
     const rewardCard = document.querySelector('div[jscontroller="KRZHBd"]');
     const nextRewardCard = document.querySelector('div[jscontroller="qtCXJb"]');
 
-    if (chestBtn) {
-      chestBtn.removeAttribute('inert');
-      chestBtn.click();
-      hasClickedChest = true;
-      chestWaitCycles++;
+    if (hasClickedChest && !rewardCard) {
+      finishProcess(true, false);
+      return;
+    }
 
-      if (chestWaitCycles >= 15) {
-        finishProcess(true, false);
+    if (chestBtn) {
+      if (chestWaitCycles < 3) {
+        chestBtn.removeAttribute('inert');
+        chestBtn.click();
+        hasClickedChest = true;
+        chestWaitCycles++;
       }
       return;
     }
