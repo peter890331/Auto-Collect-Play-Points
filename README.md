@@ -51,7 +51,7 @@ Automatically collect the weekly Play Points chests for you when you step away f
 ### 🚀 如何安裝
 由於本工具為獨立開源腳本，請依照以下步驟將其安裝到您的 Chrome 或 Edge 瀏覽器：
 
-1. 點擊頁面右側的 **[Releases](https://github.com/peter890331/Auto-Collect-Play-Points/releases)**，下載最新版本的 `Source code (zip)` 壓縮檔。
+1. 點擊頁面右側的 **[Releases](https://github.com/peter890331/Auto-Collect-Play-Points/releases)**，下載最新版本的 `Auto-Collect-Play-Points.zip` 壓縮檔。
 2. 將下載的檔案解壓縮到一個資料夾中。
 3. 打開瀏覽器，**Chrome** 請在網址列輸入 `chrome://extensions/`，**Edge** 請輸入 `edge://extensions/`，或手動從設定進入擴充功能管理頁面。
 4. 打開右上角的 **「開發人員模式」** 開關。
@@ -89,7 +89,7 @@ The tab closes automatically when finished, completely without interrupting your
 ### 🚀 How To Install
 Since this tool is an independent open-source script, please follow the steps below to install it on your Chrome or Edge browser:
 
-1. Click **[Releases](https://github.com/peter890331/Auto-Collect-Play-Points/releases)** on the right side of the page, download the latest `Source code (zip)` file.
+1. Click **[Releases](https://github.com/peter890331/Auto-Collect-Play-Points/releases)** on the right side of the page, download the latest `Auto-Collect-Play-Points.zip` file.
 2. Extract the downloaded file into a folder.
 3. Open your browser, for **Chrome** enter `chrome://extensions/` in the address bar, for **Edge** enter `edge://extensions/`, or manually open the extensions management page from settings.
 4. Turn on the **"Developer mode"** switch in the top right corner.
