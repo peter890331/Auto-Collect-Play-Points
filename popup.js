@@ -10,7 +10,7 @@ const i18n = {
   btnText: isChinese ? '立即檢查與領取' : 'Check & Collect Now',
   noData: isChinese ? '尚未取得資料' : 'No data available',
   tutorialBtn: isChinese ? '📖 使用教學' : '📖 Tutorial',
-  githubBtn: isChinese ? '⭐ 專案星星' : '⭐ Star Project',
+  githubBtn: isChinese ? '⭐ 給我星星' : '⭐ Give me a Star',
   backBtn: isChinese ? '返回' : 'Back',
 tutorialContent: isChinese ? 
     '運作方式非常簡單！\n\n' +

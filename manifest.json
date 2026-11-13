@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "name": "Auto Collect Play Points!",
   "description": "Auto Collect Play Points during computer idle time! 🙂‍↕️",
-  "version": "1.4",
+  "version": "1.5",
   "permissions": ["idle", "storage", "tabs", "alarms"],
   "host_permissions": ["https://play.google.com/store/points/perks"],
   "action": {
