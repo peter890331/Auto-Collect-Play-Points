@@ -62,7 +62,7 @@ Automatically collect the weekly Play Points chests for you when you step away f
 本擴充功能僅為模擬人工點擊的自動化腳本，旨在協助使用者節省時間，並無任何惡意破解或修改 Google 伺服器數據之行為。  
 惟使用自動化工具可能違反 Google Play 服務條款（ToS），請使用者自行評估使用風險。開發者不對因使用本工具而導致的任何帳號懲處、封鎖或損失承擔任何責任。
 
-### ⭐ 給我星星
+### <a href="https://github.com/peter890331/Auto-Collect-Play-Points"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+TC&weight=700&size=20&pause=1000&color=E3B341¢er=false&vCenter=true&width=250&height=28&lines=⭐+給我星星" alt="Typing SVG" /></a>
 感謝您對開源專案的支持！如果這個工具為您省下了時間，請點擊右上角的 **⭐ Star** 給予鼓勵！
 
 <br>
@@ -103,7 +103,7 @@ Since this tool is an independent open-source script, please follow the steps be
 This extension is solely an automated script that simulates human clicking to save users time, it does not maliciously hack or modify any Google server data.   
 However, using automated tools may violate the Google Play Terms of Service (ToS), please evaluate the risks before using. The developer assumes no responsibility for any account penalties, bans, or losses resulting from the use of this tool.
 
-### ⭐ Give me a Star
+### <a href="https://github.com/peter890331/Auto-Collect-Play-Points"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=700&size=20&pause=1000&color=E3B341¢er=false&vCenter=true&width=250&height=28&lines=⭐+Give+me+a+Star" alt="Typing SVG" /></a>
 Thank you for supporting this open-source project! If this tool saved you time, please click the **⭐ Star** in the top right corner to encourage us!
 
 <br>
